@@ -40,7 +40,7 @@ Passionate **Full Stack Developer** with hands-on experience in building scalabl
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> 🚀 Featured Projects
 
 <details>
 <summary><b>📊 Academic Accountability Tracker</b> – <i>Click to expand</i></summary>
@@ -142,25 +142,6 @@ Passionate **Full Stack Developer** with hands-on experience in building scalabl
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Stats" width="25" /> GitHub Stats
-
-<table align="center">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=HiruniHimasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiruniHimasha&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=HiruniHimasha&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Contact" width="25" /> Connect With Me
 
 <p align="center">
@@ -172,9 +153,6 @@ Passionate **Full Stack Developer** with hands-on experience in building scalabl
   </a>
   <a href="https://hiru-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-  <a href="https://github.com/HiruniHimasha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
